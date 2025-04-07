@@ -4,6 +4,10 @@
 ```
 .
 ├── README.md
+├── VMware丛书
+│   ├── 《VMware vSphere v6.5 企业运维实战》.pdf
+│   ├── 《VMware vSphere 企业级网络和存储实战》.pdf
+│   └── 《VMware vSphere性能设计  性能密集场景下CPU、内存、存储及网络的最佳设计实践》.pdf
 ├── 无线电
 │   ├── 《无线通信基础》(David_Tse).pdf
 │   └── 业余无线电通信（第五版）.pdf
@@ -26,5 +30,6 @@
 │       ├── 5-米斯特-洺熙-Ai模型风控与对抗策略.pdf
 │       └── 6-金山云-蔚永强-漏洞挖掘的另类思考.pdf
 └── 逆向丛书
-    └── Windows恶意软件常见API一览.pdf
+    ├── Windows恶意软件常见API一览.pdf
+    └── 反调试.pdf
 ```
